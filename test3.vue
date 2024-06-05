@@ -1,7 +1,10 @@
 <template>
-  <section>hello</section>
-  <div class="div-3 text1 text2">테스트 3</div>
-  <div>hello world</div>
+  <div class="test3">
+    <div class="hello">
+      <section>section</section>
+    </div>
+    테스트 3 테스트 3 테스트 3
+  </div>
 </template>
 
 <script setup lang="ts"></script>
